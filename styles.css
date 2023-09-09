@@ -1,0 +1,55 @@
+h1{
+    color: darkslategray;
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.celeste{
+    background-color: aqua;
+    height: 250px;
+    width: 750px;
+    margin-left: 500px;
+    padding-right: 100px;
+    display: inline-flex;
+}
+.dojo, .act, .justice{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 85px;
+    margin-top: 25px;
+}
+.rosa{
+    background-color: pink;
+    height: 250px;
+    width: 750px;
+    margin-left: 500px;
+    margin-top: 25px;
+    padding-right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    display: inline-flex;
+}
+.lab, .oktober{
+    height: 200px;
+    margin-left: 100px;
+    display: inline-block;
+}
+.blanco{
+    background-color: whitesmoke;
+    height: 250px;
+    width: 750px;
+    margin-left: 500px;
+    margin-top: 25px;
+    padding-right: 100px;
+    display: inline-flex;
+}
+.jumper, .sentry, .viny{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 85px;
+    margin-top: 25px;
+}
